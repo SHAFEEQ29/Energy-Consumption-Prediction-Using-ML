@@ -16,13 +16,15 @@ You can install these dependencies using pip:
 pip install pandas numpy seaborn xgboost scikit-learn
 
 Clone this repository to your local machine:
-git clone https://github.com/SHAFEEQ29/IBM.git
+git clone https://github.com/SHAFEEQ29/Energy-Consumption-Prediction-Using-ML.git
 
 Change to the project directory:
-cd IBM
+cd Energy-Consumption-Prediction-Using-ML
 
 Start a Jupyter Notebook server:
 jupyter notebook
+
+(or)
 
 Open the Google Colab Notebook file Source Code.ipynb to run the code interactively.
 
